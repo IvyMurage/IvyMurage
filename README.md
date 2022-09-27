@@ -5,12 +5,12 @@
 
 <h1 align="Center">  👋 Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Ivy Murage <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-- 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Backend
+- 🔭 I’m currently working on ReactJs
+- 🌱 I’m currently learning Frotend and Backend
 - 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
-- ⚡ Fun fact: I'm comming to teen
+- 📫 How to reach me: ivymurage2000@gmail.com
+<!-- - 😄 My website: https://savio.works/ -->
+- ⚡ Fun fact: I love cats 🐱
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
