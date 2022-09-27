@@ -14,11 +14,11 @@
 <!-- - 😄 My website: https://savio.works/ -->
 
 
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
-
+- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@murage-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/ivy-murage-158736196/"><img src="https://img.shields.io/badge/linkedin%20@ivymurage-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://twitter.com/murage_ivy"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<!-- - <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+ -->
 
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
