@@ -30,7 +30,7 @@
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Murage-Ivy&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+[![Ivy Murage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murage-Ivy)](https://github.com/Murage-Ivy/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murage-Ivy&theme=radical&title_color=8E2DE2&text_color=fff)
 
