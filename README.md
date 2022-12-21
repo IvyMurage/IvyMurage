@@ -30,7 +30,7 @@
 <br>
 
 
-![Murage Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murage-Ivy&show_icons=true&theme=onedark)
+![Murage Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murage-Ivy&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murage-Ivy&theme=radical&title_color=8E2DE2&text_color=fff)
 
