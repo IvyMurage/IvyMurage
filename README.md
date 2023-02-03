@@ -5,7 +5,7 @@
 
 <h1 align="Center">  👋 Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Ivy Murage <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-- 🔭 I’m currently working on ReactJs
+- 🔭 I’m currently working on ReactJs and Ruby On Rails
 - 🌱 I’m currently learning Frontend and Backend
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: ivymurage2000@gmail.com
