@@ -27,6 +27,7 @@
 ![ReactJS](https://img.shields.io/badge/ReactJs-grey?style=for-the-badge&logo=reactJs&logoColor=white&labelColor=8E2DE2)
 ![Ruby](https://img.shields.io/badge/Ruby-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=8E2DE2)
 ![bootstrap](https://img.shields.io/badge/-BootStrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
+![TypeScript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
 <br>
 
 
