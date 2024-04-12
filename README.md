@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Frontend and Backend
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: ivymurage2000@gmail.com
-- 🤔 I’m looking for help in learning  Python and UX design
+- 🤔 Kamikaze!!
 -  ⚡ Fun fact: I love cats 🐱
 <!-- - 😄 My website: https://savio.works/ -->
 
