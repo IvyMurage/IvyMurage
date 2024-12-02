@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="Center"> 👋 Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Ivy Murage <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center"> 👋 Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">, I'm Ivy Murage <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 - 🔭 I’m currently working on ReactJs and Ruby On Rails, NestJs.
 - 🌱 I’m currently learning Frontend and Backend
